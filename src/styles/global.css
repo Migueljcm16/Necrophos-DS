@@ -1,13 +1,13 @@
 @font-face {
     font-family: "New Rocker";
-    src: url("Necrophos-ds/fonts/NewRocker-Regular.ttf") format("truetype");
+    src: url("Necrophos-DS/fonts/NewRocker-Regular.ttf") format("truetype");
     font-weight: 400;
     font-display: swap;
 }
 
 @font-face {
     font-family: "Plus Jakarta Sans";
-    src: url("Necrophos-ds/fonts/PlusJakartaSans-Regular.ttf") format("truetype");
+    src: url("Necrophos-DS/fonts/PlusJakartaSans-Regular.ttf") format("truetype");
     font-weight: 400;
     font-display: swap;
 }
