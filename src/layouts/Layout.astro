@@ -1,0 +1,20 @@
+---
+import logo from '../../public/img/eyeIcon.png';
+import '../styles/global.css';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href={logo.src} />
+		<link rel="preload" href="/fonts/NewRocker-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+		<link rel="preload" href="/fonts/PlusJakartaSans-Regular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+		<meta name="generator" content={Astro.generator} />
+		<title>Necrophos. Dark Style </title>
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>
